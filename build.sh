@@ -1,2 +1,0 @@
-yarn codegen
-yarn build
